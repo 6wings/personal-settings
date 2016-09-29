@@ -3,7 +3,6 @@
 " vimrc file for Unix and OS/2 ~/.vimrc
 " author : xfeng
 "
-
 " Vundle settings start
 set nocompatible
 filetype off
